@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Teen Budget Tracker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Teen_Budget_Tracker_jar</output-path>
+    <root id="archive" name="Teen Budget Tracker.jar">
+      <element id="module-output" name="Teen Budget Tracker" />
+    </root>
+  </artifact>
+</component>
